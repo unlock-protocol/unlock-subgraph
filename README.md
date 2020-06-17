@@ -1,6 +1,8 @@
 This package contains the source code for the Unlock Protocol Subgraph, a project for
 indexing and querying Unlock Protocol data from the Ethereum blockchain using [The Graph](https://thegraph.com).
 
+** THIS WAS MERGED INTO THE MONO REPO**
+
 ## Quick Start
 
 ### Running a local Graph Node with Docker Compose
